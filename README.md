@@ -76,7 +76,6 @@
 Часть пользователей которая оформляет и оплачивает заказы и доля платящих пользователей от их общего числа, также число активных курьеров и их доля от общего числа
 
 [📄 Посмотреть SQL-запрос](product-metrics/1-revenue/query.sql)
-<<<<<<< HEAD
 
 [📁Полный CSV](product-metrics/1-revenue/result.csv)
 
@@ -87,6 +86,7 @@
 | 26/08/22 | 534766  | 1015550       | 24.12          |
 | 27/08/22 | 817053  | 1832603       | 52.79          |
 | ...      | ...     | ...           | ...            |
+
 =======
 [📁 Полный CSV](product-metrics/1-revenue/result.csv)
 |date |revenue|total_revenue|revenue_change|
@@ -96,7 +96,8 @@
 |26/08/22|534766 |1015550 |24.12 |
 |27/08/22|817053 |1832603 |52.79 |
 | ... | ... | ... | ... |
->>>>>>> b33013bf7789c76465728cbf10c3022f05b73e3f
+
+> > > > > > > b33013bf7789c76465728cbf10c3022f05b73e3f
 
 ---
 
@@ -410,11 +411,7 @@ Dashboard Preview:
 
 [📄 Посмотреть SQL-запрос](dynamics-users-couriers/1-dynamics-of-the-number-of-users-and-couriers/query.sql)
 
-<<<<<<< HEAD
 [📁Полный CSV](dynamics-users-couriers/1-dynamics-of-the-number-of-users-and-couriers/result.csv)
-=======
-📁 [Полный CSV](dynamics-users-couriers/1-dynamics-of-the-number-of-users-and-couriers/result.csv)
->>>>>>> b33013bf7789c76465728cbf10c3022f05b73e3f
 
 | date     | new_users | new_couriers | total_users | total_couriers |
 | -------- | --------- | ------------ | ----------- | -------------- |
@@ -581,12 +578,12 @@ Dashboard Preview:
 [📁Полный CSV](dynamics-users-couriers/4-single-several-order/result.csv)
 
 | date     | single_order_users_share | several_orders_users_share |
-| -------- | ------------------------ | -------------------------- | --- |
+| -------- | ------------------------ | -------------------------- |
 | 24/08/22 | 92.91                    | 7.09                       |
 | 25/08/22 | 76.46                    | 23.54                      |
 | 26/08/22 | 78.45                    | 21.55                      |
 | 27/08/22 | 70.93                    | 29.07                      |
-| ...      | ...                      | ...                        | ... |
+| ...      | ...                      | ...                        |
 
 ---
 
