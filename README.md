@@ -232,6 +232,7 @@ ARPU, ARPPU, AOV по дням недели:
 
 Насколько быстро растёт аудитория сервиса (динамика числа пользователей и курьеров):
 [📄 Посмотреть SQL-запрос](dynamics-users-couriers/1-dynamics-of-the-number-of-users-and-couriers/query.sql)
+
 📁 [Полный CSV](dynamics-users-couriers/1-dynamics-of-the-number-of-users-and-couriers/result.csv)
 
 | date     | new_users | new_couriers | total_users | total_couriers |
