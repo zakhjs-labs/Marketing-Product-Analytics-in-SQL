@@ -306,6 +306,7 @@ Retention (по дате первого действия всех пользов
 ---
 
 Retention (2 groups):
+
 ![Retention (2 groups)](marketing-metrics/5-retention-2-groups/image.png)
 
 📌 **Интерпретация результата**
